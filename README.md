@@ -1,0 +1,1 @@
+Putting all my advent of code solutions in one spot.

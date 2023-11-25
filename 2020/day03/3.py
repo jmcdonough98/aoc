@@ -1,0 +1,1 @@
+print(list(map(lambda ds: (lambda ds,s=open('input.txt','r').read().split('\n'), math= __import__("math"), itertools = __import__("itertools"): (math.prod(sum(map(lambda p: s[p[1]][p[0]%len(s[0])] == '#', itertools.takewhile(lambda p: p[1] < len(s), zip(itertools.count(0,d[0]),itertools.count(0,d[1]))))) for d in ds)))(ds) , [[(3,1)],[(1,1),(3,1),(5,1),(7,1),(1,2)]])))

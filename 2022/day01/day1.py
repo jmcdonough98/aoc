@@ -1,0 +1,1 @@
+print((lambda x: (x[-1],x[-1]+x[-2]+x[-3]))(sorted(map(sum,[[int(x) for x in y.split('\n')] for y in open('input.txt','r').read().split('\n\n')]))))

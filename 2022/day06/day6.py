@@ -1,0 +1,1 @@
+print((lambda f: (f(4), f(14)))(lambda N, it=__import__("itertools"), s = open('in.txt','r').read(): len(list(it.takewhile(lambda i: len(set(s[i:i+N])) != N, range(len(s))) )) + N))
